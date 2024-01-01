@@ -1,0 +1,10 @@
+Patient Name:  Priya Patil
+Age:  21
+Gender:  Female
+
+
+Tab. Amoxicillin 250mg --------(10)
+Tab. Nicip --------------------(10)
+Tab. Aspirin 3.6g -------------(8)
+Tab. Codeine Salfate 0.4g -----(10)
+Tab. ORS ----------------------(6)
